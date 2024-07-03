@@ -1,0 +1,6 @@
+.hover-effect:hover img {
+  display: inline;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  transform: scale(1.1);
+  opacity: 0.9;
+}
