@@ -31,11 +31,6 @@ export const Header = ({ className = "" }) => {
             </div>
           </div>
         </div>
-        {/* <button className="cursor-pointer pt-[15px] pb-[7px] pr-[19px] pl-[21px] bg-[transparent] flex-1 rounded-8xs overflow-hidden flex flex-row items-start justify-start whitespace-nowrap border-[1px] border-solid border-darkgreen hover:bg-mediumseagreen-200 hover:box-border hover:border-[1px] hover:border-solid hover:border-mediumseagreen-100">
-          <a className="[text-decoration:none] flex-1 relative text-mini leading-[24px] font-bold font-inter text-darkgreen text-center">
-            Login / Sign Up
-          </a>
-        </button> */}
         <button className="cursor-pointer px-[8px] py-[12px] bg-[transparent] flex-1 rounded-8xs overflow-hidden flex flex-row items-start justify-start whitespace-nowrap border-[1px] border-solid border-darkgreen hover:bg-mediumseagreen-200 hover:box-border hover:border-[1px] hover:border-solid hover:border-mediumseagreen-100">
           <a className="[text-decoration:none] flex-1 relative text-mini leading-[24px] font-bold font-inter text-darkgreen text-center">
             Login / Sign Up

@@ -19,7 +19,7 @@ export const SupplierBenefits = ({ className = "" }) => {
             <div className="absolute top-[0px] left-[529px] w-[57px] h-[57px] overflow-hidden [transform:_rotate(90deg)] [transform-origin:0_0]" />
           </div>
         </div>
-        <button className="cursor-pointer [border:none] pt-[19px] px-[52px] pb-[11px] bg-coral w-[216px] rounded-8xs overflow-hidden shrink-0 flex flex-row items-start justify-start box-border whitespace-nowrap hover:bg-tomato">
+        <button className="cursor-pointer [border:none] px-[8px] py-[12px] bg-coral w-[216px] rounded-8xs overflow-hidden shrink-0 flex flex-row items-start justify-start box-border whitespace-nowrap hover:bg-tomato">
           <b className="flex-1 relative text-lg leading-[24px] inline-block font-poppins text-white text-center min-w-[112px]">
             Get Verified
           </b>
